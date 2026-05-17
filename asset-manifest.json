@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31019325.css",
+    "main.js": "/static/js/main.5a5b7f02.js",
+    "static/js/453.09fc5b32.chunk.js": "/static/js/453.09fc5b32.chunk.js",
+    "static/media/kwiat1.jpg": "/static/media/kwiat1.9186eab6c48532b62d4c.jpg",
+    "static/media/samochod1.jpg": "/static/media/samochod1.82d95ead2c966d6f46d8.jpg",
+    "static/media/kwiat3.jpg": "/static/media/kwiat3.f7c2362b2966a0f0e853.jpg",
+    "static/media/zwierze2.jpg": "/static/media/zwierze2.bcc9e4867f954e93ffb6.jpg",
+    "static/media/zwierze3.jpg": "/static/media/zwierze3.a27713f7c65dd3b79f14.jpg",
+    "static/media/zwierze5.jpg": "/static/media/zwierze5.3efc914e96500cf26398.jpg",
+    "static/media/samochod2.jpg": "/static/media/samochod2.c6e61ca9e69d42ffbe98.jpg",
+    "static/media/zwierze6.jpg": "/static/media/zwierze6.6106af28e870c1ea7e75.jpg",
+    "static/media/zwierze4.jpg": "/static/media/zwierze4.3800a64566c0f0b652d0.jpg",
+    "static/media/zwierze1.jpg": "/static/media/zwierze1.ba569f51cf57077a9dec.jpg",
+    "static/media/kwiat2.jpg": "/static/media/kwiat2.e1c1a570024ba7c2b8ab.jpg",
+    "index.html": "/index.html",
+    "main.31019325.css.map": "/static/css/main.31019325.css.map",
+    "main.5a5b7f02.js.map": "/static/js/main.5a5b7f02.js.map",
+    "453.09fc5b32.chunk.js.map": "/static/js/453.09fc5b32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31019325.css",
+    "static/js/main.5a5b7f02.js"
+  ]
+}
